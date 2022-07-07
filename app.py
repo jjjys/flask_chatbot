@@ -11,7 +11,7 @@ def index():
 def chatbot():
     req=request.get_json(force=True)
     print(req) # intent의 display name으로 구분해서 대응하기
-    print(req['queryResult']['queryText'])
+    print("req > "+req['queryResult']['queryText'])
     print('intent > ',req['queryResult']['intent']['name'])
     if(req['queryResult']['queryText']=='주문'):
         print('오답입니다.')
