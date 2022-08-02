@@ -1,0 +1,610 @@
+{
+"scalp_type":{
+
+"양호":{
+  "브랜드평판지수":[{
+  "product_name":"",
+  "company":"",
+  "price":"",
+  "image":"",
+  "line":"",
+  "remarks":""},
+  {
+  "product_name":"",
+  "company":"",
+  "price":"",
+  "image":"",
+  "line":"",
+  "remarks":""},
+  {
+  "product_name":"",
+  "company":"",
+  "price":"",
+  "image":"",
+  "line":"",
+  "remarks":""}
+  ]
+  ,
+  
+  "의사추천":[{
+  "product_name":"",
+  "company":"",
+  "price":"",
+  "image":"",
+  "line":"",
+  "remarks":""},
+  {
+  "product_name":"",
+  "company":"",
+  "price":"",
+  "image":"",
+  "line":"",
+  "remarks":""},
+  {
+  "product_name":"",
+  "company":"",
+  "price":"",
+  "image":"",
+  "line":"",
+  "remarks":""}
+  ]
+  ,
+  
+  "화해 랭킹순":[{
+  "product_name":"",
+  "company":"",
+  "price":"",
+  "image":"",
+  "line":"",
+  "remarks":""},
+  {
+  "product_name":"",
+  "company":"",
+  "price":"",
+  "image":"",
+  "line":"",
+  "remarks":""},
+  {
+  "product_name":"",
+  "company":"",
+  "price":"",
+  "image":"",
+  "line":"",
+  "remarks":""}
+  ]
+
+},
+
+
+
+"건성":{
+  "브랜드평판지수":[{
+  "product_name":"",
+  "company":"",
+  "price":"",
+  "image":"",
+  "line":"",
+  "remarks":""},
+  {
+  "product_name":"",
+  "company":"",
+  "price":"",
+  "image":"",
+  "line":"",
+  "remarks":""},
+  {
+  "product_name":"",
+  "company":"",
+  "price":"",
+  "image":"",
+  "line":"",
+  "remarks":""}
+  ]
+  ,
+  
+  "의사추천":[{
+  "product_name":"",
+  "company":"",
+  "price":"",
+  "image":"",
+  "line":"",
+  "remarks":""},
+  {
+  "product_name":"",
+  "company":"",
+  "price":"",
+  "image":"",
+  "line":"",
+  "remarks":""},
+  {
+  "product_name":"",
+  "company":"",
+  "price":"",
+  "image":"",
+  "line":"",
+  "remarks":""}
+  ]
+  ,
+  
+  "화해 랭킹순":[{
+  "product_name":"",
+  "company":"",
+  "price":"",
+  "image":"",
+  "line":"",
+  "remarks":""},
+  {
+  "product_name":"",
+  "company":"",
+  "price":"",
+  "image":"",
+  "line":"",
+  "remarks":""},
+  {
+  "product_name":"",
+  "company":"",
+  "price":"",
+  "image":"",
+  "line":"",
+  "remarks":""}
+  ]
+
+},
+
+
+
+"지성":{
+  "브랜드평판지수":[{
+  "product_name":"",
+  "company":"",
+  "price":"",
+  "image":"",
+  "line":"",
+  "remarks":""},
+  {
+  "product_name":"",
+  "company":"",
+  "price":"",
+  "image":"",
+  "line":"",
+  "remarks":""},
+  {
+  "product_name":"",
+  "company":"",
+  "price":"",
+  "image":"",
+  "line":"",
+  "remarks":""}
+  ]
+  ,
+  
+  "의사추천":[{
+  "product_name":"",
+  "company":"",
+  "price":"",
+  "image":"",
+  "line":"",
+  "remarks":""},
+  {
+  "product_name":"",
+  "company":"",
+  "price":"",
+  "image":"",
+  "line":"",
+  "remarks":""},
+  {
+  "product_name":"",
+  "company":"",
+  "price":"",
+  "image":"",
+  "line":"",
+  "remarks":""}
+  ]
+  ,
+  
+  "화해 랭킹순":[{
+  "product_name":"",
+  "company":"",
+  "price":"",
+  "image":"",
+  "line":"",
+  "remarks":""},
+  {
+  "product_name":"",
+  "company":"",
+  "price":"",
+  "image":"",
+  "line":"",
+  "remarks":""},
+  {
+  "product_name":"",
+  "company":"",
+  "price":"",
+  "image":"",
+  "line":"",
+  "remarks":""}
+  ]
+
+},
+
+
+
+"민감성":{
+  "브랜드평판지수":[{
+  "product_name":"",
+  "company":"",
+  "price":"",
+  "image":"",
+  "line":"",
+  "remarks":""},
+  {
+  "product_name":"",
+  "company":"",
+  "price":"",
+  "image":"",
+  "line":"",
+  "remarks":""},
+  {
+  "product_name":"",
+  "company":"",
+  "price":"",
+  "image":"",
+  "line":"",
+  "remarks":""}
+  ]
+  ,
+  
+  "의사추천":[{
+  "product_name":"",
+  "company":"",
+  "price":"",
+  "image":"",
+  "line":"",
+  "remarks":""},
+  {
+  "product_name":"",
+  "company":"",
+  "price":"",
+  "image":"",
+  "line":"",
+  "remarks":""},
+  {
+  "product_name":"",
+  "company":"",
+  "price":"",
+  "image":"",
+  "line":"",
+  "remarks":""}
+  ]
+  ,
+  
+  "화해 랭킹순":[{
+  "product_name":"",
+  "company":"",
+  "price":"",
+  "image":"",
+  "line":"",
+  "remarks":""},
+  {
+  "product_name":"",
+  "company":"",
+  "price":"",
+  "image":"",
+  "line":"",
+  "remarks":""},
+  {
+  "product_name":"",
+  "company":"",
+  "price":"",
+  "image":"",
+  "line":"",
+  "remarks":""}
+  ]
+
+},
+
+
+
+"지루성":{
+  "브랜드평판지수":[{
+  "product_name":"",
+  "company":"",
+  "price":"",
+  "image":"",
+  "line":"",
+  "remarks":""},
+  {
+  "product_name":"",
+  "company":"",
+  "price":"",
+  "image":"",
+  "line":"",
+  "remarks":""},
+  {
+  "product_name":"",
+  "company":"",
+  "price":"",
+  "image":"",
+  "line":"",
+  "remarks":""}
+  ]
+  ,
+  
+  "의사추천":[{
+  "product_name":"",
+  "company":"",
+  "price":"",
+  "image":"",
+  "line":"",
+  "remarks":""},
+  {
+  "product_name":"",
+  "company":"",
+  "price":"",
+  "image":"",
+  "line":"",
+  "remarks":""},
+  {
+  "product_name":"",
+  "company":"",
+  "price":"",
+  "image":"",
+  "line":"",
+  "remarks":""}
+  ]
+  ,
+  
+  "화해 랭킹순":[{
+  "product_name":"",
+  "company":"",
+  "price":"",
+  "image":"",
+  "line":"",
+  "remarks":""},
+  {
+  "product_name":"",
+  "company":"",
+  "price":"",
+  "image":"",
+  "line":"",
+  "remarks":""},
+  {
+  "product_name":"",
+  "company":"",
+  "price":"",
+  "image":"",
+  "line":"",
+  "remarks":""}
+  ]
+
+},
+
+
+
+"염증성":{
+  "브랜드평판지수":[{
+  "product_name":"",
+  "company":"",
+  "price":"",
+  "image":"",
+  "line":"",
+  "remarks":""},
+  {
+  "product_name":"",
+  "company":"",
+  "price":"",
+  "image":"",
+  "line":"",
+  "remarks":""},
+  {
+  "product_name":"",
+  "company":"",
+  "price":"",
+  "image":"",
+  "line":"",
+  "remarks":""}
+  ]
+  ,
+  
+  "의사추천":[{
+  "product_name":"",
+  "company":"",
+  "price":"",
+  "image":"",
+  "line":"",
+  "remarks":""},
+  {
+  "product_name":"",
+  "company":"",
+  "price":"",
+  "image":"",
+  "line":"",
+  "remarks":""},
+  {
+  "product_name":"",
+  "company":"",
+  "price":"",
+  "image":"",
+  "line":"",
+  "remarks":""}
+  ]
+  ,
+  
+  "화해 랭킹순":[{
+  "product_name":"",
+  "company":"",
+  "price":"",
+  "image":"",
+  "line":"",
+  "remarks":""},
+  {
+  "product_name":"",
+  "company":"",
+  "price":"",
+  "image":"",
+  "line":"",
+  "remarks":""},
+  {
+  "product_name":"",
+  "company":"",
+  "price":"",
+  "image":"",
+  "line":"",
+  "remarks":""}
+  ]
+
+},
+
+
+
+"비듬성":{
+  "브랜드평판지수":[{
+  "product_name":"",
+  "company":"",
+  "price":"",
+  "image":"",
+  "line":"",
+  "remarks":""},
+  {
+  "product_name":"",
+  "company":"",
+  "price":"",
+  "image":"",
+  "line":"",
+  "remarks":""},
+  {
+  "product_name":"",
+  "company":"",
+  "price":"",
+  "image":"",
+  "line":"",
+  "remarks":""}
+  ]
+  ,
+  
+  "의사추천":[{
+  "product_name":"",
+  "company":"",
+  "price":"",
+  "image":"",
+  "line":"",
+  "remarks":""},
+  {
+  "product_name":"",
+  "company":"",
+  "price":"",
+  "image":"",
+  "line":"",
+  "remarks":""},
+  {
+  "product_name":"",
+  "company":"",
+  "price":"",
+  "image":"",
+  "line":"",
+  "remarks":""}
+  ]
+  ,
+  
+  "화해 랭킹순":[{
+  "product_name":"",
+  "company":"",
+  "price":"",
+  "image":"",
+  "line":"",
+  "remarks":""},
+  {
+  "product_name":"",
+  "company":"",
+  "price":"",
+  "image":"",
+  "line":"",
+  "remarks":""},
+  {
+  "product_name":"",
+  "company":"",
+  "price":"",
+  "image":"",
+  "line":"",
+  "remarks":""}
+  ]
+
+},
+
+
+
+"탈모성":{
+  "브랜드평판지수":[{
+  "product_name":"",
+  "company":"",
+  "price":"",
+  "image":"",
+  "line":"",
+  "remarks":""},
+  {
+  "product_name":"",
+  "company":"",
+  "price":"",
+  "image":"",
+  "line":"",
+  "remarks":""},
+  {
+  "product_name":"",
+  "company":"",
+  "price":"",
+  "image":"",
+  "line":"",
+  "remarks":""}
+  ]
+  ,
+  
+  "의사추천":[{
+  "product_name":"",
+  "company":"",
+  "price":"",
+  "image":"",
+  "line":"",
+  "remarks":""},
+  {
+  "product_name":"",
+  "company":"",
+  "price":"",
+  "image":"",
+  "line":"",
+  "remarks":""},
+  {
+  "product_name":"",
+  "company":"",
+  "price":"",
+  "image":"",
+  "line":"",
+  "remarks":""}
+  ]
+  ,
+  
+  "화해 랭킹순":[{
+  "product_name":"",
+  "company":"",
+  "price":"",
+  "image":"",
+  "line":"",
+  "remarks":""},
+  {
+  "product_name":"",
+  "company":"",
+  "price":"",
+  "image":"",
+  "line":"",
+  "remarks":""},
+  {
+  "product_name":"",
+  "company":"",
+  "price":"",
+  "image":"",
+  "line":"",
+  "remarks":""}
+  ]
+
+}
+
+}}

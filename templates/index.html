@@ -2,15 +2,51 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <meta name="viewport" content="width-device-width, initial-scale=1, user-scalable=no">
+    <!-- <title>pizza_chatbot</title> -->
+    <title>Doofy</title>
 </head>
 <body>
+
 <script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
+
+
+<!-- 에이전트 두피 Doofy -->
 <df-messenger
+
+  intent="WELCOME"
+  chat-title="Doofy"
+  agent-id="dcc4f570-5e46-4f16-bc2c-97d2c10c0bb7"
+  language-code="ko"
+></df-messenger>
+
+<iframe
+    allow="microphone;"
+    width="350"
+    height="430"
+    src="https://console.dialogflow.com/api-client/demo/embedded/dcc4f570-5e46-4f16-bc2c-97d2c10c0bb7">
+</iframe>
+
+
+<!-- 피자 챗봇 Dialogflow Messenger
+<df-messenger
+  chat-icon="https://icons.iconarchive.com/icons/mahm0udwally/all-flat/256/Photos-icon.png"
+  expand=False
   intent="WELCOME"
   chat-title="pizza_chatbot"
   agent-id="c415b5fb-9c5b-4651-80d4-9862115b4b45"
   language-code="ko"
 ></df-messenger>
+
+
+<iframe
+    allow="microphone;"
+    width="350"
+    height="430"
+    src="https://console.dialogflow.com/api-client/demo/embedded/c415b5fb-9c5b-4651-80d4-9862115b4b45">
+</iframe>
+-->
+
+
 </body>
 </html>

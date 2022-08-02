@@ -1,0 +1,20 @@
+{
+"hospital":[
+ { 
+  "name":"",
+  "address":"",
+  "homepage":"",
+  "number":"",
+  "lat":"",
+  "lon":""
+ },
+ {
+  "name":"",
+  "address":"",
+  "homepage":"",
+  "number":"",
+  "lat":"",
+  "lon":""
+ }
+ ]
+}
